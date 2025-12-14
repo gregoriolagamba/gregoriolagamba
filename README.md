@@ -21,7 +21,7 @@ I use this GitHub account to explore ideas, experiment with technologies, and ca
 
 🌱 I am currently deepening my knowledge of **artificial intelligence** and **code development using AI tools**.
 
-📫 How to contact me: via **LinkedIn** (or GitHub issues/discussions, for project-related topics)
+📫 How to contact me: via [**LinkedIn**](https://www.linkedin.com/in/gregoriolagamba/) (or GitHub issues/discussions, for project-related topics)
 
 ⚡ Fun facts:
 - I am deeply interested in the **ethical implications of technology** and how innovation can help us regain time, focus, and creativity instead of consuming them.
@@ -36,18 +36,18 @@ I use this GitHub account to explore ideas, experiment with technologies, and ca
 To keep things clear and well-separated, my work is organized across different GitHub Organizations:
 
 - 📘 **Learning**  
-  👉 [`org-gregoriolagamba-learning`](https://github.com/org-gregoriolagamba-learning)  
+  👉 [`org-gregoriolagamba-learning`](https://github.com/org-gregoriolagamba-learning/repositories)  
   Repositories created during study sessions.
 
 - 🧪 **Labs & experiments**  
-  👉 [`org-gregoriolagamba-labs`](https://github.com/org-gregoriolagamba-labs)  
+  👉 [`org-gregoriolagamba-labs`](https://github.com/org-gregoriolagamba-labs/repositories)  
   Repositories created during technical explorations, and prototypes.
   
 - 🧑‍💻​ **Personal projects**  
-  👉 [`org-gregoriolagamba-projects`](https://github.com/org-gregoriolagamba-projects)  
+  👉 [`org-gregoriolagamba-projects`](https://github.com/org-gregoriolagamba-projects/repositories)  
   Small but focused projects, tools, and ideas that I actively maintain or evolve.
 
 - 📚 **Documentation & notes**  
-  👉 [`org-gregoriolagamba-docs`](https://github.com/org-gregoriolagamba-docs)  
+  👉 [`org-gregoriolagamba-docs`](https://github.com/org-gregoriolagamba-docs/repositories)  
   Technical notes, guidelines, and reusable documentation aimed at knowledge sharing.
 
