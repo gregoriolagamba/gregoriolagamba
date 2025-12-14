@@ -25,11 +25,11 @@ I use this GitHub account to explore ideas, experiment with technologies, and ca
 
 ⚡ Fun facts:
 - I am deeply interested in the **ethical implications of technology** and how innovation can help us regain time, focus, and creativity instead of consuming them.
-- I periodically publish articles on personal growth in my newsletter “Fermate Brevi” on LinkedIn.
+- I periodically publish articles on personal growth in my newsletter [**“Fermate Brevi”**](https://www.linkedin.com/newsletters/7327759417959964672/) on LinkedIn.
 
 ## GitHub stats
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=gregoriolagamba&show_icons=true&hide_title=true&theme=transparent&bg_color=1B7513&title_color=ffffff&text_color=ffffff&icon_color=ffffff)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=gregoriolagamba&include_all_commits=true&rank_icon=github&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&hide_title=true&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
 ## How to read my GitHub
 
