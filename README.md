@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **gregoriolagamba/gregoriolagamba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,39 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Hello 👋
+
+My name is **Gregorio La Gamba** and I currently work at **Eni Plenitude** as an **IT Solution Architect**.
+
+I use this GitHub account to explore ideas, experiment with technologies, and carry out small projects, with a strong focus on real-world applicability and the **practical adoption of AI in corporate environments**.
+
+🌱 I am currently deepening my knowledge of **artificial intelligence** and **code development using AI tools**.
+
+📫 How to contact me: via **LinkedIn** (or GitHub issues/discussions, for project-related topics)
+
+⚡ Fun facts:
+- I am deeply interested in the **ethical implications of technology** and how innovation can help us regain time, focus, and creativity instead of consuming them.
+- I periodically publish articles on personal growth in my newsletter “Fermate Brevi” on LinkedIn.
+
+---
+
+## How to read my GitHub
+
+To keep things clear and well-separated, my work is organized across different GitHub Organizations:
+
+- 📘 **Learning**  
+  👉 [`org-gregoriolagamba-learning`](https://github.com/org-gregoriolagamba-learning)  
+  Repositories created during study sessions.
+
+- 🧪 **Labs & experiments**  
+  👉 [`org-gregoriolagamba-labs`](https://github.com/org-gregoriolagamba-labs)  
+  Repositories created during technical explorations, and prototypes.
+  
+- 🧑‍💻​ **Personal projects**  
+  👉 [`org-gregoriolagamba-projects`](https://github.com/org-gregoriolagamba-projects)  
+  Small but focused projects, tools, and ideas that I actively maintain or evolve.
+
+- 📚 **Documentation & notes**  
+  👉 [`org-gregoriolagamba-docs`](https://github.com/org-gregoriolagamba-docs)  
+  Technical notes, guidelines, and reusable documentation aimed at knowledge sharing.
