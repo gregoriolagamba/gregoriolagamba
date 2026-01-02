@@ -29,7 +29,7 @@ I use this GitHub account to explore ideas, experiment with technologies, and ca
 
 ## GitHub stats
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=gregoriolagamba&include_all_commits=true&rank_icon=github&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&hide_title=true&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=gregoriolagamba&include_all_commits=true&rank_icon=github&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&hide_title=true&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
 ## How to read my GitHub
 
