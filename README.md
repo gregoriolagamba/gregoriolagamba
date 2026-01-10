@@ -51,7 +51,4 @@ To keep things clear and well-separated, my work is organized across different G
   👉 [`org-gregoriolagamba-projects`](https://github.com/orgs/org-gregoriolagamba-projects)  
   Small but focused projects, tools, and ideas that I actively maintain or evolve.
 
-- 📚 **Documentation & notes**  
-  👉 [`org-gregoriolagamba-docs`](https://github.com/orgs/org-gregoriolagamba-docs)  
-  Technical notes, guidelines, and reusable documentation aimed at knowledge sharing.
 
