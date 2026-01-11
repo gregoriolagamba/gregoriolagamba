@@ -47,8 +47,8 @@ To keep things clear and well-separated, my work is organized across different G
   👉 [`org-gregoriolagamba-projects`](https://github.com/orgs/org-gregoriolagamba-projects/repositories)  
   Small but focused projects, tools, and ideas that I actively maintain or evolve.
 
-  - 🔧 **Tools & Utilities**  
-  👉 [`org-gregoriolagamba-tools`](https://github.com/orgs/org-gregoriolagamba-tools/repositories)  
-  Shared tools, templates, scripts, workflows, and documentation, used across all other organizations.
+- 🔧 **Tools & Utilities**  
+👉 [`org-gregoriolagamba-tools`](https://github.com/orgs/org-gregoriolagamba-tools/repositories)  
+Shared tools, templates, scripts, workflows, and documentation, used across all other organizations.
 
 
