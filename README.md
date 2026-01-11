@@ -36,19 +36,19 @@ I use this GitHub account to explore ideas, experiment with technologies, and ca
 To keep things clear and well-separated, my work is organized across different GitHub Organizations:
 
 - 📘 **Learning**  
-  👉 [`org-gregoriolagamba-learning`](https://github.com/orgs/org-gregoriolagamba-learning)  
+  👉 [`org-gregoriolagamba-learning`](https://github.com/orgs/org-gregoriolagamba-learning/repositories)  
   Repositories created during study sessions.
 
-- 🔧 **Tools & Utilities**  
-  👉 [`org-gregoriolagamba-tools`](https://github.com/orgs/org-gregoriolagamba-tools)  
-  Shared tools, templates and scripts, used across all other organizations.
-
 - 🧪 **Labs & experiments**  
-  👉 [`org-gregoriolagamba-labs`](https://github.com/orgs/org-gregoriolagamba-labs)  
+  👉 [`org-gregoriolagamba-labs`](https://github.com/orgs/org-gregoriolagamba-labs/repositories)  
   Repositories created during technical explorations, and prototypes.
   
 - 🧑‍💻​ **Personal projects**  
-  👉 [`org-gregoriolagamba-projects`](https://github.com/orgs/org-gregoriolagamba-projects)  
+  👉 [`org-gregoriolagamba-projects`](https://github.com/orgs/org-gregoriolagamba-projects/repositories)  
   Small but focused projects, tools, and ideas that I actively maintain or evolve.
+
+  - 🔧 **Tools & Utilities**  
+  👉 [`org-gregoriolagamba-tools`](https://github.com/orgs/org-gregoriolagamba-tools/repositories)  
+  Shared tools, templates, scripts, workflows, and documentation, used across all other organizations.
 
 
